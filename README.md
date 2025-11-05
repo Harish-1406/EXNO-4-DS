@@ -228,5 +228,4 @@ contingency_table
 <img width="400" height="53" alt="image" src="https://github.com/user-attachments/assets/b404ed10-548c-4b51-8ac4-5e593537ef1b" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
 From the experiment i explored the different types of scaling methods which will be usefull for scale data into a range of values which helps in improving accuracy.Then comes to performing Feature Selection which helps to select only the most important and relavent columns from a dataset to reduce Overfitting
